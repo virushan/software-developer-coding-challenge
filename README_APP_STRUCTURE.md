@@ -6,10 +6,11 @@ Users
  |-- LogOut
 
 cars
- |-- list Cars for auction
+ |-- list All car makes
  |-- Add Cars to listing
+ |-- list All models
 
-Auction_Media_Resource
+Media_Resource // for all 3 (user, types of cars, and auctioned cars)
  |-- Add Video/Pictures
  |-- list Pictures
 

@@ -1,7 +1,7 @@
 {
   "name": "users",
   "version": "0.0.1",
-  "description": "",
+  "description": "auth layer",
   "main": "server.js",
   "scripts": {
     "lint": "eslint src/**",

@@ -1,7 +1,7 @@
 {
-  "name": "users",
+  "name": "cars",
   "version": "0.0.1",
-  "description": "",
+  "description": "Makes and models of the cars available in the market",
   "main": "server.js",
   "scripts": {
     "lint": "eslint src/**",

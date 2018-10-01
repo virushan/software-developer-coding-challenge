@@ -1,5 +1,5 @@
 const add = async (req, res) => {
-    res.json({ msg: "New car added to db success!!!" });
+    res.json({ msg: "Add auction Item success!!!" });
 }
 
 module.exports = add;

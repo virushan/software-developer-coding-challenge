@@ -1,7 +1,7 @@
 {
-  "name": "cars",
+  "name": "auction",
   "version": "0.0.1",
-  "description": "Makes and models of the cars available in the market",
+  "description": "auction details",
   "main": "server.js",
   "scripts": {
     "lint": "eslint src/**",
